@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rohan
 
 # 💫 About Me:
-I'm a student exploring the world of development and a beginner in the developer community, eager to learn and grow in the world of coding.I Love gaming, reading, and experimenting with new tech.
+I'm a student exploring the world of development and a beginner in the developer community, eager to learn and grow in the world of coding. I Love gaming, reading, and experimenting with new tech.
 
 -- 🔥 My Skills
 - Beginner in Python, HTML & CSS, java (learning more every day!)
